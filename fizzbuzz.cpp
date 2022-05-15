@@ -1,4 +1,9 @@
-﻿#include <iostream>
+/*
+-rogozin fizzbuzz
+-15.05.22
+*/
+
+#include <iostream>
 
 void FizzBuzz(int number = 1)
 {
